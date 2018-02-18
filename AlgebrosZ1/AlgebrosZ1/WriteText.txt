@@ -1,0 +1,1 @@
+{"Errors":[],"Result":"{\"TeamId\":31,\"TeamName\":\"Algebros\",\"Password\":null,\"AuthorizationToken\":\"QWxnZWJyb3M6Og==\",\"NextApi\":\"http://52.233.158.172/change/documents/Algebros/2137634ChangeCode_korak_3.pdf\",\"Errors\":[]}"}

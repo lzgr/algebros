@@ -1,0 +1,13 @@
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\bin\Debug\AlgebrosZ2.exe.config
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\bin\Debug\AlgebrosZ2.exe
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\bin\Debug\AlgebrosZ2.pdb
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.csprojResolveAssemblyReference.cache
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.Form1.resources
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.Properties.Resources.resources
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.csproj.GenerateResource.Cache
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.csproj.CoreCompileInputs.cache
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.exe
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.pdb
+C:\Users\lzgrm\source\repos\AlgebrosZ2\AlgebrosZ2\obj\Debug\AlgebrosZ2.TeamDataForm.resources
